@@ -1,0 +1,11 @@
+*.aux
+*.ilg
+*.idx
+*.swp
+*.out
+*.log
+*.toc
+*.ind
+*.pdf
+
+./Pictures/ico/cover.jpg
