@@ -8,4 +8,5 @@
 *.ind
 *.pdf
 
-./Pictures/ico/cover.jpg
+Pictures/ico/cover.jpg
+!Pictures/ico/cover.pdf
