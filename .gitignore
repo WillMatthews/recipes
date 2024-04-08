@@ -1,3 +1,5 @@
+
+# pdflatex
 *.aux
 *.ilg
 *.idx
@@ -8,5 +10,10 @@
 *.ind
 *.pdf
 
+# aspell
+*.bak
+
+# Cover Image (But keep the PDF)
 Pictures/ico/cover.jpg
 !Pictures/ico/cover.pdf
+
